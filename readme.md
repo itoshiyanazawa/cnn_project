@@ -5,8 +5,6 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 ## 📂 Project Structure
 
 - `notebooks/`: Main training and evaluation logic
-- `best_model.keras`: Saved model with best validation performance
-- `cat_image.png`, `dog_image.png`: Example images used for Grad-CAM
 - `README.md`: Project overview and insights (you’re here!)
 
 ---
