@@ -68,9 +68,8 @@ Used **Grad-CAM** to visualize model attention on cat and dog images:
 
 ## 🔍 Analysis & Findings
 
-- CNN performs moderately well on CIFAR-10 grayscale images.
+- CNN performs moderately well on CIFAR-10 color images.
 - Struggles particularly between **cat vs. dog** classes.
-- Grad-CAM revealed room for architectural improvements.
 - Using RGB inputs and deeper layers helps extract more meaningful features.
 - Early stopping and dropout were crucial for avoiding overfitting.
 
