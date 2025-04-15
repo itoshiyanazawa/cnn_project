@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 
 ## 📂 Project Structure
 
-- `notebooks/`: Main training and evaluation logic
+- `main_backup.ipynb`: Main training and evaluation logic
 - `README.md`: Project overview and insights (you’re here!)
 
 ---
