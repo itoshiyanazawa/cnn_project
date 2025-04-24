@@ -106,7 +106,7 @@ Used **Grad-CAM** to visualize model attention on cat and dog images:
     -  Ask AI why if you are not sure about the results
     -  Identify problems, then think & write solutions on the submission
     -  Make it clear what we did for each section (He said he couldn't find hyper-parameter tuning section)
--  Create visualizations for the model architecture, not by letter
+-  Create visualizations for the model architecture, not by letter (visualkeras package)
 
 
 Install dependencies:
