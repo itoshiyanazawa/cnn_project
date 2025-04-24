@@ -98,6 +98,17 @@ Used **Grad-CAM** to visualize model attention on cat and dog images:
 - OpenCV
 - Matplotlib, Seaborn, scikit-learn
 
+---
+## 🧑🏻‍🏫 Feedback from Professor
+- Don't rely on early stopping
+    - Do enough iterations to see the train model's loss/accuracy's maximum value
+- Add explanation for each output, including visualizations
+    -  Ask AI why if you are not sure about the results
+    -  Identify problems, then think & write solutions on the submission
+    -  Make it clear what we did for each section (He said he couldn't find hyper-parameter tuning section)
+-  Create visualizations for the model architecture, not by letter
+
+
 Install dependencies:
 
 ```bash
